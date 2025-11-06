@@ -1,4 +1,4 @@
-# Пока не понадобился. Это только пример
+# Страница ввода данных клиента
 import time
 from selenium import webdriver
 from selenium.webdriver.common.by import By

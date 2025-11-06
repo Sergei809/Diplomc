@@ -1,4 +1,4 @@
-# Главная страница
+# Страница корзины
 
 import time
 from selenium import webdriver

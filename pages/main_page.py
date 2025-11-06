@@ -1,4 +1,4 @@
-# Главная страница
+# Страница выбора товара
 
 import time
 from selenium import webdriver
